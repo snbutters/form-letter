@@ -1,0 +1,16 @@
+#formOne {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#letter {
+  display: none;
+}
+
+p {
+  font-size: large;
+}
